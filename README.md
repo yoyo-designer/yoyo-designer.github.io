@@ -1,1 +1,1 @@
-[yoyo-designer.github.io](yoyo-designer.github.io)
+[yoyo-designer.github.io](http://yoyo-designer.github.io)
