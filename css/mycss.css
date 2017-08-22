@@ -1,0 +1,22 @@
+* {
+    transition: all 0.5s;
+}
+
+img {
+    width: 100%;
+    margin:15px auto;
+    transition: all 0.3s;    
+}
+
+img:hover {
+    /*transform: scale(1.05);*/
+    box-shadow:0 0 3px 3px gray;
+}
+
+.content {
+    margin-top: 60px;
+}
+
+/*.content_imgBox {
+    margin: 0 30px;
+}*/
